@@ -32,6 +32,6 @@ Positive sentiment spike → Stock price increase (lag effect observed)
 <img width="332" height="305" alt="image" src="https://github.com/user-attachments/assets/cae78722-6b31-4f4d-bfdd-931233ffc522" />
 
 # Run the Model
-Open directly in Google Colab:https://colab.research.google.com/github/njotuguilly-blip/Stock News Analysis
+Open directly in Google Colab:https://colab.research.google.com/github/njotuguilly-blip/Stock_news_analysis
 
 
